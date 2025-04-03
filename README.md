@@ -29,4 +29,9 @@ Dataset access:
 <img src="https://github.com/user-attachments/assets/4c898324-cc58-40dd-a19f-731ac4c76f0c" alt="Northstar" height="400" /> <img src="https://github.com/user-attachments/assets/9442edb9-23b4-494b-be71-35f3b7ad43dd" alt="Northstar" height="400" />
 
 ### Stage 3: Ideate
+![Image](https://github.com/user-attachments/assets/bf482e96-e2c0-4ed7-ba1b-7b7859b8a386)
 
+## 3. Visualization
+### Purchasing Overview
+### Inventory Report
+### Vendor Detail
