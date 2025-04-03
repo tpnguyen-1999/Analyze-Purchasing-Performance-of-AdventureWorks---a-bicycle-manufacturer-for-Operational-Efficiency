@@ -21,5 +21,10 @@ Dataset access:
 - **5W1H**
 
 ![Image](https://github.com/user-attachments/assets/8b9a6372-54f8-4838-b38c-8fbc060aceaa)
+
+- **Empathy Map**
+
+
 ### Stage 2: Northstar Metric and POV
+
 ### Stage 3: Ideate
