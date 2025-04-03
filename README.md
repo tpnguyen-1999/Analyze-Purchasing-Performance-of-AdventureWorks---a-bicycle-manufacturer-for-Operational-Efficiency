@@ -23,9 +23,7 @@ Dataset access:
 <img src="https://github.com/user-attachments/assets/8b9a6372-54f8-4838-b38c-8fbc060aceaa" alt="5W1H" width="1050" />
 
 - **Empathy Map**
-<img src="https://github.com/user-attachments/assets/f7f5f8d2-a667-4bd2-869d-96db3fef761e" alt="Empathy Map" width="1050" />
-
-![Image](https://github.com/user-attachments/assets/f7f5f8d2-a667-4bd2-869d-96db3fef761e)
+<img src="https://github.com/user-attachments/assets/5381a46e-ad21-458c-9576-98ac9abf4265" alt="Empathy Map" width="1050" />
 
 ### Stage 2: Northstar Metric and POV
 
