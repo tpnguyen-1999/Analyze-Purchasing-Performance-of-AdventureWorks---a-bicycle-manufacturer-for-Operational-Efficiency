@@ -1,4 +1,4 @@
-# [POWER BI] AdventureWorks Purchasing Operational Dashboard
+# [POWER BI] Analyze Purchasing Performance of AdventureWorks for Operational Efficiency
 ## 1. Introduction
 
 ### 1.1. Business question
