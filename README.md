@@ -48,6 +48,7 @@ Dataset access:
 ### 3.3. Vendor Detail
 ![Image](https://github.com/user-attachments/assets/bbc5f70c-0081-4638-a137-f26947262dfc)
 
+Present the vendor profiles and performance metrics, allowing the purchasing department to gain insights and conduct future analysis.
 
 ## 4. Recommendations
 - **Vendor selection**: Remain the current situation with purchasing focuses on preferred vendors and vendor with high credit rating. Try to reduce lead time in order to get purchasing on time.
