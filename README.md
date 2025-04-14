@@ -33,6 +33,7 @@ Dataset access:
 
 ## 3. Data Modeling
 Connect relevant tables from the dataset in BigQuery to Power BI, clean the data, and apply data modeling techniques to organize and optimize it for analysis.
+![Image](https://github.com/user-attachments/assets/86e5f449-1f50-4a2c-b40e-e4dc2e7be8d0)
 
 ## 4. Visualization
 ### 4.1. Purchasing Overview
