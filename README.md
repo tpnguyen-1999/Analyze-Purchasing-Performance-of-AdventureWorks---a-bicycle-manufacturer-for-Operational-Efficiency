@@ -37,20 +37,20 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 
 ## 4. Visualization
 ### 4.1. Purchasing Overview
-![Image](https://github.com/user-attachments/assets/46a5727f-b597-4c11-96ef-b2be5ba6107c)
+![Image](https://github.com/user-attachments/assets/638229ca-6244-41de-89fa-39e70babf127)
 
 - The Net purchase witnessed an increase over time, from Q1 2012 around 1.7 million USA before reaching a peak at approximately 17 million USA in Q2 2014 (Note: Q3 2014 data is unavailable, so there is no conclusion about a significant decline).
 - A majority of purchase is from preferred vendors, accounts for over 90%.
 - Rejected Rate is quite low and stable.
 - Purchase from vendor with low credit ratings is at acceptable level.
 ### 4.2. Inventory Report
-![Image](https://github.com/user-attachments/assets/73b73cb8-d8d4-42fd-bbea-ccfb335f7628)
+![Image](https://github.com/user-attachments/assets/8adba575-9147-4567-8210-26ac4550ffc9)
 
 - Subassembly and Miscellaneous Storage are two locations that have the highest inventory quantity (95K units and 83K units) but have low inventory value ($3.3M and $1.5M respectively). There are many items stored but have low value.
 - Some product quantities are under safety stock level that they need purchasing. 
 
 ### 4.3. Vendor Detail
-![Image](https://github.com/user-attachments/assets/bbc5f70c-0081-4638-a137-f26947262dfc)
+![Image](https://github.com/user-attachments/assets/2492de3e-135c-46c8-900e-39b19fc184c2)
 
 Present the vendor profiles and performance metrics, allowing the purchasing department to gain insights and conduct future analysis.
 
