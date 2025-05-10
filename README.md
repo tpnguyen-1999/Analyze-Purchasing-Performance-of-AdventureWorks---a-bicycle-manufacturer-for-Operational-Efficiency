@@ -39,7 +39,7 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 ### 4.1. Purchasing Overview
 ![Image](https://github.com/user-attachments/assets/6bb84dd2-5c9b-4716-8f60-82a8609567be)
 
-- The Net purchase witnessed an increase over time, from Q1 2012 around 1.7 million USA before reaching a peak at approximately 17 million USA in Q2 2014 (Note: Q3 2014 data is unavailable, so there is no conclusion about a significant decline).
+- The Net purchase witnessed an increase over time, from Q1 2012 around 2 million USA before reaching a peak at approximately 18 million USA in Q2 2014 (Note: Q3 2014 data is unavailable, so there is no conclusion about a significant decline).
 - A majority of purchase is from preferred vendors, accounts for over 90%.
 - Rejected Rate is quite low and stable.
 - Purchase from vendor with low credit ratings is at acceptable level.
