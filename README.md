@@ -37,20 +37,20 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 
 ## 4. Visualization
 ### 4.1. Purchasing Overview
-![Image](https://github.com/user-attachments/assets/6bb84dd2-5c9b-4716-8f60-82a8609567be)
+![Image](https://github.com/user-attachments/assets/8b7447af-2fd5-48f7-a799-727d17c25665)
 
 - The Net purchase witnessed an increase over time, from Q1 2012 around 2 million USA before reaching a peak at approximately 18 million USA in Q2 2014 (Note: Q3 2014 data is unavailable, so there is no conclusion about a significant decline).
 - A majority of purchase is from preferred vendors, accounts for over 90%.
 - Rejected Rate is quite low and stable.
 - Purchase from vendor with low credit ratings is at acceptable level.
 ### 4.2. Inventory Report
-![Image](https://github.com/user-attachments/assets/309d17e4-e238-4e33-b84d-fae705b4c6db)
+![Image](https://github.com/user-attachments/assets/237c6fe1-e27a-4db3-af79-0330f7acbdd3)
 
 - Subassembly and Miscellaneous Storage are two locations that have the highest inventory quantity (95K units and 83K units) but have low inventory value ($3.3M and $1.5M respectively). There are many items stored but have low value.
 - Some product quantities are under safety stock level that they need purchasing. 
 
 ### 4.3. Vendor Detail
-![Image](https://github.com/user-attachments/assets/198703ed-d537-4ca9-8663-b9ecb27e2ee1)
+![Image](https://github.com/user-attachments/assets/18bc6af7-a50f-4f11-90bb-8dd5efbf16bd)
 
 Present the vendor profiles and performance metrics, allowing the purchasing department to gain insights and conduct future analysis.
 
@@ -59,3 +59,4 @@ Present the vendor profiles and performance metrics, allowing the purchasing dep
 - **Improve inventory replenishment**: Address 69 SKUs below safety stock level immediate to prevent shortages for production and sales.
 - **Inventory tracking over time**: The information about inventory is not updated regularly; therefore, it is essential to build a system for tracking inventory over time to enable analysis, better inventory management decisions.
 - **Inventory Management**: Need to balance inventory across locations to avoid overstock and maintain optimal stock levels.
+
