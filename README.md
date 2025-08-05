@@ -41,7 +41,7 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 
 - The Net purchase witnessed an increase over time, from Q1 2012 around 2 million USA before reaching a peak at approximately 18 million USA in Q2 2014 (Note: Q3 2014 data is unavailable, so there is no conclusion about a significant decline).
 - A majority of purchase is from preferred vendors, accounts for over 90%.
-- Rejected Rate is quite low and stable.
+- On-Time Fulfillment Rate is high 95.09%
 - Purchase from vendor with low credit ratings is at acceptable level.
 ### 4.2. Inventory Report
 <img width="1303" height="753" alt="Image" src="https://github.com/user-attachments/assets/9284ce77-0ec0-4674-b508-8a96d8977f9e" />
