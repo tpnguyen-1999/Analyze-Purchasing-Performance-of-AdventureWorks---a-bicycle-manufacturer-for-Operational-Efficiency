@@ -58,9 +58,9 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 Present the vendor performance metrics, allowing the purchasing department to gain insights and conduct future analysis.
 
 ## 5. Recommendations
-- **Vendor selection**: Remain the current situation with purchasing focuses on preferred vendors and vendor with high credit rating. Try to reduce lead time in order to get purchasing on time.
+- **Vendor selection**: Remain the current situation with purchasing focuses on preferred vendors and vendor with high credit rating, given their consistent performance and reliable fulfillment rates.Explore opportunities to reduce lead times through better coordination with suppliers or strategic stock agreements to ensure timely procurement.
 - **Improve inventory replenishment**: Address 69 SKUs below safety stock level immediate to prevent shortages for production and sales.
 - **Inventory tracking over time**: The information about inventory is not updated regularly; therefore, it is essential to build a system for tracking inventory over time to enable analysis, better inventory management decisions.
-- **Inventory Management**: Need to balance inventory across locations to avoid overstock and maintain optimal stock levels.
+- **Inventory Management**: Rebalance stock across storage locations to avoid overstocking low-demand sites and maintain optimal stock levels. Regularly review inventory classification (e.g., Not Salable items) and establish clear processes for scrapping or repurposing obsolete inventory.
 
 
