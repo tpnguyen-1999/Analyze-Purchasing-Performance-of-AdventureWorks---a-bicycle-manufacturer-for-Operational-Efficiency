@@ -29,7 +29,7 @@ Dataset access:
 <img width="467" height="327" alt="Image" src="https://github.com/user-attachments/assets/ff5352d0-5fcc-45c3-abc5-769af9fc6a71" />
 
 ### Stage 3: Ideate
-![Image](https://github.com/user-attachments/assets/bf482e96-e2c0-4ed7-ba1b-7b7859b8a386)
+<img width="893" height="366" alt="Image" src="https://github.com/user-attachments/assets/ec1dbe65-12cd-44d1-bc14-d86d94182178" />
 
 ## 3. Data Modeling
 Connect relevant tables from the dataset in BigQuery to Power BI, clean the data, and apply data modeling techniques to organize and optimize it for analysis.
