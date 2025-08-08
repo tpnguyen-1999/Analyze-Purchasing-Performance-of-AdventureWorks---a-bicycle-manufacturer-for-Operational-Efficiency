@@ -40,6 +40,7 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 <img width="1304" height="757" alt="Image" src="https://github.com/user-attachments/assets/e74c3d07-c3d2-4339-b111-95ddcc4ecf19" />
 
 - The Net purchase witnessed an increase over time, from Q1 2012 around 2 million USA before reaching a peak at approximately 18 million USA in Q2 2014 (Note: Q3 2014 data is unavailable, so there is no conclusion about a significant decline).
+- The AVG purchase order cost rose from $6,767 in January to a peak of $7,774 in March, stayed around $7,400 through mid-year, dropped to a low of $6,270 in September, and recovered to $7,460 by December.
 - A majority of purchase is from preferred vendors, accounts for over 90%.
 - On-Time Fulfillment Rate is high 95.09%
 - Purchase from vendor with low credit ratings is at acceptable level.
@@ -47,12 +48,14 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 <img width="1303" height="753" alt="Image" src="https://github.com/user-attachments/assets/9284ce77-0ec0-4674-b508-8a96d8977f9e" />
 
 - Subassembly and Miscellaneous Storage are two locations that have the highest inventory quantity (95K units and 83K units) but have low inventory value ($3.3M and $1.5M respectively). There are many items stored but have low value.
+- Inventory turnover increased steadily from 60 in January to a peak of 90 in June, then declined sharply to 26 in October, before recovering to 58 by December, reflecting strong seasonality in inventory movement.
+- 42% of products and finished goods are classified as Not Salable, indicating a significant portion of inventory may be obsolete, damaged, or unsellable.
 - Some product quantities are under safety stock level that they need purchasing. 
 
 ### 4.3. Vendor Performance
 <img width="1302" height="756" alt="Image" src="https://github.com/user-attachments/assets/1050ff65-89fe-4ade-8a5c-7fc5a779a1de" />
 
-Present the vendor profiles and performance metrics, allowing the purchasing department to gain insights and conduct future analysis.
+Present the vendor performance metrics, allowing the purchasing department to gain insights and conduct future analysis.
 
 ## 5. Recommendations
 - **Vendor selection**: Remain the current situation with purchasing focuses on preferred vendors and vendor with high credit rating. Try to reduce lead time in order to get purchasing on time.
