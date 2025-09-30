@@ -37,7 +37,7 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 
 ## 4. Visualization
 ### 4.1. Purchasing Overview
-<img width="1304" height="757" alt="Image" src="https://github.com/user-attachments/assets/e74c3d07-c3d2-4339-b111-95ddcc4ecf19" />
+<img width="1302" height="755" alt="Image" src="https://github.com/user-attachments/assets/eab1537c-1d91-453f-b3f1-c40ba8a22d51" />
 
 - The Net purchase witnessed an increase over time, from Q1 2012 around 2 million USA before reaching a peak at approximately 18 million USA in Q2 2014 (Note: Q3 2014 data is unavailable, so there is no conclusion about a significant decline).
 - The AVG purchase order cost rose from $6,767 in January to a peak of $7,774 in March, stayed around $7,400 through mid-year, dropped to a low of $6,270 in September, and recovered to $7,460 by December.
@@ -45,7 +45,7 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 - On-Time Fulfillment Rate is high 95.09%
 - Purchase from vendor with low credit ratings is at acceptable level.
 ### 4.2. Inventory Report
-<img width="1303" height="753" alt="Image" src="https://github.com/user-attachments/assets/9284ce77-0ec0-4674-b508-8a96d8977f9e" />
+<img width="1303" height="751" alt="Image" src="https://github.com/user-attachments/assets/1598e9ec-f09b-448c-932c-abb1982d4e91" />
 
 - Subassembly and Miscellaneous Storage are two locations that have the highest inventory quantity (95K units and 83K units) but have low inventory value ($3.3M and $1.5M respectively). There are many items stored but have low value.
 - Inventory turnover increased steadily from 60 in January to a peak of 90 in June, then declined sharply to 26 in October, before recovering to 58 by December, reflecting strong seasonality in inventory movement.
@@ -53,7 +53,7 @@ Connect relevant tables from the dataset in BigQuery to Power BI, clean the data
 - Some product quantities are under safety stock level that they need purchasing. 
 
 ### 4.3. Vendor Performance
-<img width="1302" height="756" alt="Image" src="https://github.com/user-attachments/assets/1050ff65-89fe-4ade-8a5c-7fc5a779a1de" />
+<img width="1305" height="753" alt="Image" src="https://github.com/user-attachments/assets/9e70b408-1348-4ced-979e-0d1414d96353" />
 
 Present the vendor performance metrics, allowing the purchasing department to gain insights and conduct future analysis.
 
